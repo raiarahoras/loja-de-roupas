@@ -1,1 +1,3 @@
-# Projeto baseado em Loja de Roupas, feito por Raiara.
+# Projeto baseado em Loja de Roupas
+
+feito por Raiara.
