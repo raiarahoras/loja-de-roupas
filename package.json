@@ -1,0 +1,23 @@
+{
+  "name": "front-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raiarahoras/loja-de-roupas.git"
+  },
+  "author": "rhoras527 <77358131+rhoras527@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "description": "feito por Raiara.",
+  "bugs": {
+    "url": "https://github.com/raiarahoras/loja-de-roupas/issues"
+  },
+  "homepage": "https://github.com/raiarahoras/loja-de-roupas#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
